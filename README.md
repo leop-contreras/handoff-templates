@@ -33,6 +33,9 @@ another model.
 <my-prompt>
 ...your detailed prompt here...
 </my-prompt>
+
+Ask questions, then write the handoff as file, not in chat.
+If any [NEEDS CLARIFICATION] are left in the file after making the file, list them with bullet points in chat.
 ```
 
 What makes the difference:
